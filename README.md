@@ -1,6 +1,6 @@
 # 🛡️ RASSED – Personal Cybersecurity Assistant
 
-**Haseen** is a Python-based graphical application designed as part of Qatar’s *Cyber Eco* initiative by the National Cyber Security Agency. The project aims to raise cybersecurity awareness among individuals by providing simple tools to test and improve their online safety practices.
+**RASSED** is a Python-based graphical application designed as part of Qatar’s *Cyber Eco* initiative by the National Cyber Security Agency. The project aims to raise cybersecurity awareness among individuals by providing simple tools to test and improve their online safety practices.
 
 ## 📌 Features
 
@@ -51,3 +51,35 @@ Make sure you have Python 3.x installed. You can install the required libraries 
 ```bash
 pip install requests pillow
 ```
+
+### Running the Application
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/rassed-cybersecurity-tool.git
+cd rassed-cybersecurity-tool
+```
+
+2. Run the main Python file:
+
+```bash
+python main.py
+```
+
+## 📸 Screenshots
+
+> *Add screenshots here after uploading them to the repository.*
+
+## 🌍 Project Origin
+
+This application was developed as part of the **Cyber Eco** initiative by the **National Cyber Security Agency – Qatar**. It aims to support digital literacy, especially among youth, in alignment with Qatar's digital transformation and cybersecurity vision.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+🔐 Stay safe. Stay aware. Stay **RASSED**.
+
